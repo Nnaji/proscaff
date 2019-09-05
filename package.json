@@ -4,7 +4,7 @@
   "description": "Projects scaffolder",
   "main": "index.js",
   "scripts": {
-    "test": "mocha",
+    "test": "mocha --watch",
     "dev": "webpack --mode development",
     "prod": "webpack --mode production"
   },
